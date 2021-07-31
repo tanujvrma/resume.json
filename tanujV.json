@@ -1,0 +1,68 @@
+{
+	"basics": {
+		"name": "Tanuj Verma ",
+		"label": "Student",
+		"picture": "https://pbs.twimg.com/profile_images/1421507420346486790/3t-hQ70H.jpg",
+		"email": "2020KUEC2017@IIITKOTA.AC.IN",
+		"phone": "+91 7357558898 ",
+		"summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and communication engineering .",
+		"location": {
+			"address": "Durgapura",
+			"postalCode": "302018",
+			"city": "Jaipur",
+			"countryCode": " India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Github",
+				"username": "tanujvrma",
+				"url": "https://github.com/tanujvrma"
+			},
+			{
+				"network": "linkedin",
+				"username": "Jayesh Yadav",
+				"url": "https://www.linkedin.com/in/tanuj-verma-2405 "
+			},
+			{
+				"network": "Instagram",
+				"username": "_nobody2405",
+				"url": "https://instagram.com/_nobody2405?utm_medium=copy_link"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information Technology,Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		"courses": [
+			"Electronics and communication Engineering "
+		]
+	}],
+	"skills": [{
+		"level": "Beginner",
+		"keywords": [
+			"HTML",
+			"CSS",
+			"C/C++"
+		]
+	}],
+	"languages": [{
+		"language": "English",
+		"fluency": "Native speaker"
+	}],
+	"interests": [{
+			"name": "Music instrument",
+			"keywords": [
+				"Flute"
+			]
+		},
+		{
+			"name": "Playing",
+			"keywords": [
+				"Football",
+				"Volleyball"
+			]
+		}
+	],
+	"references": []
+}
